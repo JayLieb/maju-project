@@ -10,5 +10,8 @@ private:
 	int myPositionY;
 
 	char mySymbol;
+
+	char getSymbol();
+
 };
 
