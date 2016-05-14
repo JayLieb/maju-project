@@ -24,10 +24,10 @@
     <ClInclude Include="targetver.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="Entity.h">
+    <ClInclude Include="World.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="World.h">
+    <ClInclude Include="Entity.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

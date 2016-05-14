@@ -1,3 +1,12 @@
-﻿  stdafx.cpp
-  retardGameOne.cpp
-  retardGameOne.vcxproj -> C:\Users\Juri\Source\Repos\maju-project\retardGameOne\Debug\retardGameOne.exe
+﻿Der Buildvorgang wurde am 14.05.2016 16:52:55 gestartet.
+     1>Projekt "C:\Users\MaaT\Source\Repos\maju-project\retardGameOne\retardGameOne\retardGameOne.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Program Files (x86)\VisualStudio15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\retardGameOne.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt World.cpp
+         World.cpp
+     1>c:\users\maat\source\repos\maju-project\retardgameone\retardgameone\world.cpp(36): error C2039: "getSymbol": Ist kein Element von "Entity"
+         c:\users\maat\source\repos\maju-project\retardgameone\retardgameone\entity.h(3): note: Siehe Deklaration von "Entity"
+     1>Die Erstellung des Projekts "C:\Users\MaaT\Source\Repos\maju-project\retardGameOne\retardGameOne\retardGameOne.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:00.50
