@@ -20,6 +20,7 @@
  }
 
 
+//Gameloop
 int main()
 {
 	cout << "fick dich du fotze\n";
