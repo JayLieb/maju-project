@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/retardGameOne/retardGameOne.sdf
+/retardGameOne/retardGameOne.opensdf
