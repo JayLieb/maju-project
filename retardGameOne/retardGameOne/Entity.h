@@ -4,6 +4,7 @@ class Entity
 public:
 	Entity();
 	~Entity();
+	char getSymbol();
 
 private:
 	int myPositionX;
@@ -11,7 +12,6 @@ private:
 
 	char mySymbol;
 
-	char getSymbol();
 
 };
 
