@@ -6,14 +6,16 @@
 #include <iostream>
 
  using namespace std;
+ int eingabe;
  
 //Gameloop
 int main()
 {
-	cout << "fick dich du fotze\n";
+	cout << "Das Retard-Game Volume 1\n";
 
 	World* myWorld = new World();
 	myWorld->print();
+	cin >> eingabe;
 	delete myWorld;
 
 	cin.clear();

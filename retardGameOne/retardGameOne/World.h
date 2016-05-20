@@ -1,5 +1,8 @@
-#include "Entity.h"
+#ifndef HEADERFILE_H
+#define HEADERFILE_H
+
 #include <iostream>
+#include "Entity.h"
 #pragma once
 class World
 {
@@ -15,4 +18,8 @@ private:
 	Entity** myField;
 
 };
+
+
+
+#endif
 

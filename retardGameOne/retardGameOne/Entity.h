@@ -1,3 +1,6 @@
+#ifndef HEADERFILE_H
+#define HEADERFILE_H
+
 #pragma once
 class Entity
 {
@@ -15,3 +18,4 @@ private:
 
 };
 
+#endif
