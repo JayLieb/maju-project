@@ -1,8 +1,7 @@
-#ifndef HEADERFILE_H
-#define HEADERFILE_H
+#ifndef WORLD_H
+#define WORLD_H
 
 #include <iostream>
-#include "Entity.h"
 #pragma once
 class World
 {

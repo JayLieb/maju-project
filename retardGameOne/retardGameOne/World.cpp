@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "World.h"
+#include "Entity.h"
 
 
 World::World()

@@ -1,7 +1,16 @@
-﻿  Überspringen... (keine relevanten Änderungen gefunden)
-  stdafx.cpp
+﻿  retardGameOne.cpp
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.h(17): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.h(17): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.h(17): error C2238: Unerwartete(s) Token vor ";"
   World.cpp
-  retardGameOne.cpp
-  Entity.cpp
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.h(17): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.h(17): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.h(17): error C2238: Unerwartete(s) Token vor ";"
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(8): error C2065: "myField": nichtdeklarierter Bezeichner
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(11): error C2065: "myField": nichtdeklarierter Bezeichner
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(26): error C2065: "myField": nichtdeklarierter Bezeichner
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(28): error C2065: "myField": nichtdeklarierter Bezeichner
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(28): error C2541: "delete": Objekte, die keine Zeiger sind, können nicht gelöscht werden
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(37): error C2065: "myField": nichtdeklarierter Bezeichner
+c:\users\juri\source\repos\maju-project\retardgameone\retardgameone\world.cpp(37): error C2228: Links von ".getSymbol" müssen sich in einer Klasse/Struktur/Union befinden
   Code wird generiert...
-  retardGameOne.vcxproj -> C:\Users\Juri\Source\Repos\maju-project\retardGameOne\Debug\retardGameOne.exe
