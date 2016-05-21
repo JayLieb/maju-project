@@ -2,6 +2,7 @@
 #define WORLD_H
 
 #include <iostream>
+#include "Entity.h"
 #pragma once
 class World
 {
