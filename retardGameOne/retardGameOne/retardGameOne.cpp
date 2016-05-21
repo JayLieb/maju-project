@@ -1,7 +1,6 @@
 // retardGameOne.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
 //
 
-#include "stdafx.h"
 #include "World.h"
 #include <iostream>
 
